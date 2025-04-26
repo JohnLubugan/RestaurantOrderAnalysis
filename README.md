@@ -1,6 +1,6 @@
 <h1>Restaurant Order Analysis</h1>
 
-### [📂 [View Project Files Here](https://drive.google.com/drive/folders/1fyjZbnvbWWA_MJ9JNQHasnTYoaAhPp2u)]
+### [📂 View Project Files Here](https://drive.google.com/drive/folders/1fyjZbnvbWWA_MJ9JNQHasnTYoaAhPp2u)
 
 <h2>📋 Description</h2>
 This project involves analyzing restaurant order data to uncover useful insights. Using SQL queries, we explored customer purchasing patterns, identified best- and worst-selling menu items, and generated valuable metrics for business decision-making.
@@ -20,15 +20,15 @@ This project involves analyzing restaurant order data to uncover useful insights
 
 <p align="center">
 Connect to the database and explore the tables: <br/>
-<img src="LINK_TO_YOUR_DATABASE_OVERVIEW_SCREENSHOT" height="80%" width="80%" alt="Database Overview"/>
+<img src="https://imgur.com/a/dOw7fFP" height="80%" width="80%" alt="Database Overview"/>
 <br />
 <br />
 Write SQL queries to analyze orders:  <br/>
-<img src="LINK_TO_YOUR_QUERY_SCREENSHOT" height="80%" width="80%" alt="SQL Query Execution"/>
+<img src="https://imgur.com/a/ISccQ08" height="80%" width="80%" alt="SQL Query Execution"/>
 <br />
 <br />
 View the analysis results: <br/>
-<img src="LINK_TO_YOUR_QUERY_RESULT_SCREENSHOT" height="80%" width="80%" alt="Query Results"/>
+<img src="https://imgur.com/a/9bPmt0R" height="80%" width="80%" alt="Query Results"/>
 <br />
 <br />
 Interpret insights to support business decisions:  <br/>
