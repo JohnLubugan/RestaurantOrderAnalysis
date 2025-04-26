@@ -20,20 +20,17 @@ This project involves analyzing restaurant order data to uncover useful insights
 
 <p align="center">
 Connect to the database and explore the tables: <br/>
-<img src="https://imgur.com/a/dOw7fFP" height="80%" width="80%" alt="Database Overview"/>
+<img src="https://i.imgur.com/zMQI8rA.png" height="80%" width="80%" alt="Database Overview"/>
 <br />
 <br />
-Write SQL queries to analyze orders:  <br/>
-<img src="https://imgur.com/a/ISccQ08" height="80%" width="80%" alt="SQL Query Execution"/>
+Exploring Menu Items:  <br/>
+<img src="https://i.imgur.com/9TGpdcv.png" height="80%" width="80%" alt="SQL Query Execution"/>
 <br />
 <br />
-View the analysis results: <br/>
-<img src="https://imgur.com/a/9bPmt0R" height="80%" width="80%" alt="Query Results"/>
+Exploring Order Details: <br/>
+<img src="https://i.imgur.com/MMlNVBg.png" height="80%" width="80%" alt="Query Results"/>
 <br />
 <br />
-Interpret insights to support business decisions:  <br/>
-<img src="LINK_TO_YOUR_INSIGHT_SCREENSHOT" height="80%" width="80%" alt="Insights and Recommendations"/>
-</p>
 
 <!--
 Future Updates:
